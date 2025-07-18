@@ -68,7 +68,7 @@ syntaxmd/
 
 ## 🧃 Notes
 
-- you need [WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+- you need [WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) to build it.
 - built with 💔 and copium
 - tested on Windows 10/11
 
