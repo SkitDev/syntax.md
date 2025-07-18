@@ -35,16 +35,6 @@ after that, it just loads from that local dir. no internet required.
 
 ---
 
-## 📦 Build Instructions (Optional)
-
-1. open the project in Visual Studio 2022+
-2. make sure you're on **.NET 6 or 7**
-3. install the **WebView2 SDK**
-4. build `Release` configuration
-5. run or publish (`right-click project > Publish` if you want)
-
----
-
 ## 💾 Save Behavior
 
 - click the `💾 Save` button
