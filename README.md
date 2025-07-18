@@ -76,7 +76,7 @@ syntaxmd/
 
 ## 🧛 credits
 
-- made by [burned toast](https://github.com/ur-url-here)
+- made by [SkitDev](https://github.com/SkitDev)
 - UI powered by markdown, highlight.js, and black magic
 
 ---
