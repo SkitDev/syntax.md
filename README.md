@@ -45,20 +45,6 @@ after that, it just loads from that local dir. no internet required.
 
 ---
 
-## 🗃️ Structure
-
-```txt
-syntaxmd/
-├── index.html
-├── script.js
-├── styles.css
-├── highlight/
-│   └── highlight.min.js
-└── syntaxmd.exe (WinForms + WebView2)
-```
-
----
-
 ## 💾 Save Behavior
 
 - click the `💾 Save` button
